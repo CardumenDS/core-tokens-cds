@@ -12,5 +12,8 @@
     "license": "ISC",
     "devDependencies": {
         "style-dictionary": "^3.9.2"
+    },
+    "publishConfig": {
+        "@CardumenDS:registry": "https://npm.pkg.github.com"
     }
 }
