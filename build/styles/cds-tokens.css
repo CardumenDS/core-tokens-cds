@@ -1,11 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Aug 2024 03:59:36 GMT
+ * Generated on Wed, 28 Aug 2024 05:30:18 GMT
  */
 
 :root {
   --cds-sp-color-background-subtle: #f5f6f8;
   --cds-sp-color-background-lightest: #ffffff;
+  --cds-sp-color-background-dark: #23252a;
   --cds-sp-color-text-extreme: #1a1d20;
   --cds-sp-color-text-strong: #535a64;
   --cds-sp-color-text-medium: #7e8287;
@@ -66,6 +67,7 @@
   --cds-sp-color-icon-feedback-success: #007824;
   --cds-sp-color-icon-feedback-warning: #b54b00;
   --cds-sp-color-icon-feedback-critical: #cf2222;
+  --cds-sp-text-title-giant: [object Object];
   --cds-al-color-magenta-50: #fae6ef;
   --cds-al-color-magenta-100: #efb0cd;
   --cds-al-color-magenta-200: #e78ab4;
