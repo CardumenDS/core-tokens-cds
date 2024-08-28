@@ -1,0 +1,28 @@
+{
+    "source": ["./tokens/*.json"],
+    "platforms": {
+      "scss": {
+        "transformGroup": "scss",
+        "buildPath": "build/styles/",
+        "files": [{
+          "destination": "cds-tokens.scss",
+          "format": "custom/expand",
+          "options": {
+            "outputReferences": true
+          }
+  
+        }]
+      },
+      "css": {
+        "transformGroup": "css",
+        "buildPath": "build/styles/",
+        "files": [
+          {
+            "destination": "cds-tokens.css",
+            "format": "css/variables",
+            "selector": "css"
+          }
+        ]
+      }
+    }
+  }
