@@ -1,0 +1,70 @@
+{
+  "gradient": {
+    "cds-sp-color": {
+      "surface": {
+        "gradient-fixed": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.4999999999999978
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffff00"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0.227743074297905
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      }
+    }
+  }
+}
